@@ -23,6 +23,7 @@ This repository presents the code and results for a project on the analysis of N
 ![image](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/assets/83591548/e650eef4-8b27-4078-9bcc-359d42553297)
 
 3. 100-yr flow simulation:
+
 ![](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/blob/main/100yrGIFCumberland.gif)
 
 2. Distribution of average annualized cost to homeowner:

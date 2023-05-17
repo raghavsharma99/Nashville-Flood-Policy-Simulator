@@ -16,12 +16,22 @@ This repository presents the code and results for a project on the analysis of N
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/83591548/227374113-f89bab42-1e32-45fd-823d-a48486e8d3c2.png">
 
 ## Results: 
-1. Peak streamflow and exceedance probability associated with each flood depth:
-<img width="447" alt="image" src="https://user-images.githubusercontent.com/83591548/227374491-a78cf37d-1bab-4efc-9a12-5a444698f5ea.png">
+1. Mean Depth in ROI and Peak Streamflow relationship:
+![image](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/assets/83591548/cdcd211e-002b-42b1-8eae-d15632560214)
+
+2. Peak streamflow and exceedance probability associated with each flood depth:
+![image](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/assets/83591548/e650eef4-8b27-4078-9bcc-359d42553297)
+
+3. 100-yr floodplain boundary:
+
+4. 100-yr flood depth:
+![Uploading image.png…]()
+
 
 2. Distribution of average annualized cost to homeowner:
-<img width="878" alt="image" src="https://user-images.githubusercontent.com/83591548/227374373-6c160998-c376-4240-9f0f-bef2ac6cd9e8.png">
+![image](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/assets/83591548/b6d10938-c37c-489a-9b37-a74337fc0387)
 
-3. Average annualized cost to homowner and annual premium under 3 insurance scenarios:
-<img width="621" alt="image" src="https://user-images.githubusercontent.com/83591548/227374610-90a83c1d-a4d6-4ded-923f-1cc3e7623a60.png">
+3. Average annualized cost to homeowner under 3 insurance scenarios:
+![image](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/assets/83591548/a07e7c61-e3d7-49b8-8db7-505626e514ed)
+
  

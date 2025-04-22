@@ -11,13 +11,22 @@ Estimate the average annualized flood losses to homeowners from riverine floodin
 
 Evaluate the cost-effectiveness of three different flood insurance policies.
 ## Data Used
-1. Cumberland Historical Streamflow Record - USGS Streamstats (Station ID: 03431500)
-2. 10m DEM Nashville City - USGS
-3. 100 damage ratios for 1 to 7ft flood depths (DAMAGE_RATIOS.csv)
-4. Insurance terms:
-   Insurance A: $1500 annual premium, $1250 deductible
-   Insurance B: $1200 annual premium, $5000 deductible
-   Insurance C: $900 annual premium, $10000 deductible
+1. Cumberland River Historical Streamflow Records
+Source: USGS StreamStats (Station ID: 03431500)
+
+2. 10-meter Digital Elevation Model (DEM) for Nashville
+Source: USGS National Map
+
+3. Damage Ratios by Flood Depth
+Source: `DAMAGE_RATIOS.csv` — includes 100 depth-damage pairs for 1 to 7 ft inundation depths
+
+Insurance Scenarios Analyzed:
+
+Insurance A: $1,500 annual premium, $1,250 deductible
+
+Insurance B: $1,200 annual premium, $5,000 deductible
+
+Insurance C: $900 annual premium, $10,000 deductible
    
 ##  Methodology: 
 <img width="704" alt="image" src="https://user-images.githubusercontent.com/83591548/227374113-f89bab42-1e32-45fd-823d-a48486e8d3c2.png">

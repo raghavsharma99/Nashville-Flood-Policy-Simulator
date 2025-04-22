@@ -42,7 +42,7 @@ Insurance C: $900 annual premium, $10,000 deductible
 
 ![](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/blob/main/100yrGIFCumberland.gif)
 
-2. Distribution of average annualized cost to homeowner:
+2. Distribution of average cost to homeowner:
 ![image](https://github.com/raghavsharma99/Nashville-Insurance-Mitigation-Comparison-Riverine-Flooding/assets/83591548/b6d10938-c37c-489a-9b37-a74337fc0387)
 
 3. Average annualized cost to homeowner under 3 insurance scenarios:
